@@ -1,2 +1,2 @@
 # CSPDT
-Machine Readable Communicating Sequential Processes
+Communicating Sequential Processes Development Tools
